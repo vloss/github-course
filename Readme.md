@@ -7,3 +7,5 @@ Alteração no arquivo.
 
 Saiba mais pesquisando.
 
+
+Adicionado nova edição.
